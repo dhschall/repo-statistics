@@ -1,0 +1,35 @@
+on:
+  schedule:
+    # Run this once per day (hours in UTC time zone).
+    # Towards the end of the day for keeping the last
+    # data point meaningful.
+    - cron: "00 00 * * *"
+  workflow_dispatch: # Allow for running this manually.
+
+jobs:
+  j1:
+    name: repo-stats
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # The repositories to generate reports for.
+        statsRepo: ['dhschall/gem5-fdp']
+      # Do not cancel&fail all remaining jobs upon first job failure.
+      fail-fast: false
+      # Help avoid commit conflicts. Note(JP): this should not be
+      # necessary anymore, feedback appreciated
+      max-parallel: 1
+    steps:
+      - name: GHRS
+        uses: jgehrcke/github-repo-stats@RELEASE
+        with:
+          # Define the target repository, the repo to fetch
+          # stats for and to generate the report for.
+          # Leave this undefined when stats repository
+          # and data repository should be the same.
+          repository: ${{ matrix.statsRepo }}
+          # Required token privileges: Can read the target
+          # repo, and can push to the repository this
+          # workflow file lives in (to store data and
+          # the report files).
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
