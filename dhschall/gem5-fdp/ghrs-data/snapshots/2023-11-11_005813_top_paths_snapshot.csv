@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp,46,17
+/dhschall/gem5-fdp/blob/fdp/configs/example/gem5_library/fdp-hello.py,15,3
+/dhschall/gem5-fdp/tree/fdp/src,14,2
+/dhschall/gem5-fdp/tree/fdp/src/cpu,4,2
+/dhschall/gem5-fdp/forks,2,2
+/dhschall/gem5-fdp/actions/workflows/compiler-tests.yaml,2,1
+/dhschall/gem5-fdp/actions/workflows/daily-tests.yaml,2,1
+/dhschall/gem5-fdp/actions/workflows/weekly-tests.yaml,2,1
+/dhschall/gem5-fdp/blob/fdp/src/cpu/o3/fetch.cc,2,1
+/dhschall/gem5-fdp/blob/fdp/src/mem/cache/prefetch/queued.cc,2,1
