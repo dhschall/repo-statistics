@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp,31,21
+/dhschall/gem5-fdp/tree/fdp/src,8,4
+/dhschall/gem5-fdp/blob/fdp/src/mem/cache/prefetch/indirect_memory.cc,6,2
+/dhschall/gem5-fdp/blob/fdp/src/mem/cache/prefetch/pif.cc,6,2
+/dhschall/gem5-fdp/tree/fdp/src/mem,6,2
+/dhschall/gem5-fdp/issues,5,3
+/dhschall/gem5-fdp/tree/fdp,5,2
+/dhschall/gem5-fdp/blob/fdp/src/mem/cache/prefetch/fdp.cc,4,2
+/dhschall/gem5-fdp/blob/fdp/src/mem/cache/prefetch/multi.cc,4,2
+/dhschall/gem5-fdp/blob/fdp/src/mem/cache/prefetch/sbooe.cc,4,2
