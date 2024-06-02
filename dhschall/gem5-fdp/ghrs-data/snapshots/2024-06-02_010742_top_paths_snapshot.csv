@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp,19,13
+/dhschall/gem5-fdp/tree/fdp/src,7,3
+/dhschall/gem5-fdp/tree/fdp/src/mem/cache,4,1
+/dhschall/gem5-fdp/tree/fdp/src/mem/cache/prefetch,4,1
+/dhschall/gem5-fdp/tree/fdp/src/mem,3,1
+/dhschall/gem5-fdp/blob/fdp/configs/example/gem5_library/fdp-hello.py,2,1
+/dhschall/gem5-fdp/blob/fdp/RELEASE-NOTES.md,2,1
+/dhschall/gem5-fdp/blob/fdp/src/arch/isa_parser/isa_parser.py,2,1
+/dhschall/gem5-fdp/blob/fdp/src/arch/isa_parser/operand_types.py,2,1
+/dhschall/gem5-fdp/blob/fdp/src/arch/riscv/insts/static_inst.cc,2,1
