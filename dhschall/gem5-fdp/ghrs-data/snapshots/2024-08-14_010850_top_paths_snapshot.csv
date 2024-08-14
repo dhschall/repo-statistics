@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp,11,7
+/dhschall/gem5-fdp/issues/1,6,3
+/dhschall/gem5-fdp/blob/fdp/src/cpu/activity.cc,6,1
+/dhschall/gem5-fdp/issues,5,2
+/dhschall/gem5-fdp/issues/4,5,2
+/dhschall/gem5-fdp/blob/fdp/src/cpu/pred/associative_btb.cc,4,1
+/dhschall/gem5-fdp/blob/fdp/src/cpu/pred/simple_btb.cc,4,1
+/dhschall/gem5-fdp/blob/fdp/src/cpu/pred/simple_btb.hh,4,1
+/dhschall/gem5-fdp/tree/decoupled-front-end/src,4,1
+/dhschall/gem5-fdp/tree/decoupled-front-end/src/cpu/o3,3,1
