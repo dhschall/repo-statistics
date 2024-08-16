@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp,17,9
+/dhschall/gem5-fdp/tree/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/configs/example,8,1
+/dhschall/gem5-fdp/blob/fdp/src/cpu/activity.cc,6,1
+/dhschall/gem5-fdp/blob/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/README.md,5,1
+/dhschall/gem5-fdp/blob/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/src/mem/cache/prefetch/Prefetcher.py,5,1
+/dhschall/gem5-fdp/tree/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/configs,5,1
+/dhschall/gem5-fdp/tree/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/configs/example/gem5_library,5,1
+/dhschall/gem5-fdp/blob/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/configs/example/gem5_library/fdp-hello.py,4,1
+/dhschall/gem5-fdp/tree/decoupled-front-end/src,4,1
+/dhschall/gem5-fdp/issues,3,2
