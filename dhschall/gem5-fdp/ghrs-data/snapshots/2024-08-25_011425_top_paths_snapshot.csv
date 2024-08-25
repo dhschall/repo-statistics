@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp,46,17
+/dhschall/gem5-fdp/blob/fdp/configs/example/gem5_library/fdp-hello.py,10,1
+/dhschall/gem5-fdp/tree/fdp,8,4
+/dhschall/gem5-fdp/blob/fdp/src/cpu/pred/associative_btb.cc,8,2
+/dhschall/gem5-fdp/tree/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/configs/example,8,1
+/dhschall/gem5-fdp/tree/fdp/src,6,3
+/dhschall/gem5-fdp/blob/fdp/src/cpu/pred/btb.hh,6,1
+/dhschall/gem5-fdp/blob/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/README.md,5,1
+/dhschall/gem5-fdp/blob/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/src/mem/cache/prefetch/Prefetcher.py,5,1
+/dhschall/gem5-fdp/tree/227e52a0bc7ce89727b14ca87dbdfbb22b6058dd/configs,5,1
