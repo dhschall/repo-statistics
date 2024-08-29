@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp/tree/fdp/src/cpu/o3,45,2
+/dhschall/gem5-fdp,41,18
+/dhschall/gem5-fdp/tree/fdp/src/cpu,32,4
+/dhschall/gem5-fdp/blob/fdp/src/cpu/o3/bac.cc,28,1
+/dhschall/gem5-fdp/tree/fdp/src,25,4
+/dhschall/gem5-fdp/blob/fdp/src/cpu/o3/decode.cc,20,1
+/dhschall/gem5-fdp/blob/fdp/src/cpu/o3/fetch.cc,13,1
+/dhschall/gem5-fdp/tree/fdp,12,6
+/dhschall/gem5-fdp/tree/fdp/src/cpu/pred,12,3
+/dhschall/gem5-fdp/blob/fdp/src/cpu/pred/associative_btb.cc,10,3
