@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp,27,14
+/dhschall/gem5-fdp/tree/PFC,15,2
+/dhschall/gem5-fdp/commits/PFC,9,2
+/dhschall/gem5-fdp/blob/PFC/src/cpu/pred/tagescl/tage.hpp,7,2
+/dhschall/gem5-fdp/tree/taken-history,7,2
+/dhschall/gem5-fdp/tree/PFC/src/cpu/pred,7,1
+/dhschall/gem5-fdp/commits/taken-history,6,2
+/dhschall/gem5-fdp/tree/fdp/src,5,4
+/dhschall/gem5-fdp/blob/fdp/src/cpu/o3/fetch.cc,5,2
+/dhschall/gem5-fdp/commit/226e08b2462e34cc5eae607e94e74d90c57eeb63,4,2
