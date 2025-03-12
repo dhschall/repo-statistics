@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/LLBP,47,30
+/dhschall/LLBP/tree/main/bpmodels,15,6
+/dhschall/LLBP/blob/main/bpmodels/llbp/llbp.cc,13,4
+/dhschall/LLBP/tree/main/bpmodels/llbp,7,5
+/dhschall/LLBP/tree/main/traces,5,5
+/dhschall/LLBP/tree/main/bpmodels/tage,4,3
+/dhschall/LLBP/blob/main/main.cc,3,2
+/dhschall/LLBP/tree/main/btb,3,1
+/dhschall/LLBP/actions/workflows/build-and-run.yml,2,2
+/dhschall/LLBP/blob/main/bpmodels/base_predictor.h,2,2
