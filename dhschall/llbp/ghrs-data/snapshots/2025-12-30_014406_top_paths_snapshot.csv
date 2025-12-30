@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/LLBP,34,21
+/dhschall/LLBP/blob/main/README.md,4,4
+/dhschall/LLBP/tree/main/traces,3,3
+/dhschall/LLBP/tree/main/bpmodels,3,2
+/dhschall/LLBP/tree/main/bpmodels/tage,2,1
+/dhschall/LLBP/tree/main/btb,2,1
+/dhschall/LLBP/actions/workflows/build-and-run.yml,1,1
+/dhschall/LLBP/blob/e73be293ef727851159fcb3600a0f6d7a0f1fc63/.github/workflows/linters.yml,1,1
+/dhschall/LLBP/blob/main/bpmodels/base_predictor.cc,1,1
+/dhschall/LLBP/blob/main/bpmodels/components/counters.h,1,1
