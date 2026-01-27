@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp,34,15
+/dhschall/gem5-fdp/tree/develop,6,1
+/dhschall/gem5-fdp/branches,5,2
+/dhschall/gem5-fdp/pulls,5,2
+/dhschall/gem5-fdp/tree/multilevel_btb-new,3,1
+/dhschall/gem5-fdp/tree/stable,3,1
+/dhschall/gem5-fdp/tree/value-pred,3,1
+/dhschall/gem5-fdp/tree/value-pred/.devcontainer,3,1
+/dhschall/gem5-fdp/actions/workflows/docker-build.yaml,2,1
+/dhschall/gem5-fdp/blob/value-pred/.devcontainer/devcontainer.json,2,1
