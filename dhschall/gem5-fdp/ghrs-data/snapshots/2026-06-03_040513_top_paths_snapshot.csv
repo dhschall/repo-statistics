@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/gem5-fdp/tree/multilevel_btb-new,4,3
+/dhschall/gem5-fdp/commit/52bbdbc6d4a359a4750389a1b9f25a83ae0e8511,4,2
+/dhschall/gem5-fdp/issues,4,2
+/dhschall/gem5-fdp,3,2
+/dhschall/gem5-fdp/pulls,3,2
+/dhschall/gem5-fdp/commit/3dd8306c5354487add52e50fe2afee1f39024832,2,2
+/dhschall/gem5-fdp/commits/multilevel_btb-new,2,2
+/dhschall/gem5-fdp/blob/fdp/configs/example/arm/devices.py,2,1
+/dhschall/gem5-fdp/blob/multilevel_btb-new/src/cpu/pred/bpred_unit.cc,1,1
+/dhschall/gem5-fdp/blob/multilevel_btb-new/src/cpu/pred/branch_type.hh,1,1
