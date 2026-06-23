@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/dhschall/LLBP,5,5
+/dhschall/LLBP/blob/main/bpmodels/tage/tage.h,4,1
+/dhschall/LLBP/blob/main/bpmodels/tage/tage.cc,3,1
+/dhschall/LLBP/blob/main/bpmodels/llbp/llbp.cc,2,2
+/dhschall/LLBP/tree/main,2,2
+/dhschall/LLBP/tree/main/bpmodels,2,2
+/dhschall/LLBP/blob/main/bpmodels/base_predictor.h,1,1
+/dhschall/LLBP/blob/main/bpmodels/components/counters.h,1,1
+/dhschall/LLBP/blob/main/bpmodels/components/hist_registers.h,1,1
+/dhschall/LLBP/blob/main/bpmodels/tage/tage_scl.cc,1,1
